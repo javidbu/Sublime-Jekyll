@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Jekyll: New Draft",
+        "command": "new_draft",
+        "args": {}
+    },
+    {
+        "caption": "Jekyll: Publish Draft",
+        "command": "publish_draft",
+        "args": {}
+    }
+]
